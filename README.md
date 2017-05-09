@@ -14,5 +14,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 
 * [Castillo Santana, Junior Miguel - Inmobiliaria](https://github.com/juniorcastillo/inmobiliaria)
 * [Pastor Rueda, Daniel - Coolmena](http://beta.coolmena.com) (codigo fuente en formato comprimido, por privacidad)
+* [Rodríguez Naranjo, Moisés - Hotel Fuente Alegre](https://github.com/MoisesRodriguezN/ProyectoFinalWeb)
 * [Zambrana Naranjo, Alejandro - MilField-Player](https://github.com/alejandrozambrana/MilField-Player)
+
 
