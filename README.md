@@ -19,6 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [López Mompeán, Rubén - Meet2Play](https://github.com/RubenLopezMompean/Meet2Play)
 * [López Ortiz, Alejandro - MEOW](https://github.com/AlejandroLopez96/Social-Network-PROY-DAW2)
 * [Moreno Hernández, Eduardo Jesús - PROTUBE](https://github.com/EduMoreno/Proyecto-Final-DAW2-PROTUBE-)
+* [Ortega Padilla, Alberto - Protective Animal](https://github.com/AlbertoOrtegaPadilla/Protective-Animal)
 * [Pastor Rueda, Daniel - Coolmena](http://beta.coolmena.com) (codigo fuente en formato comprimido, por privacidad)
 * [Rodríguez Naranjo, Moisés - Hotel Fuente Alegre](https://github.com/MoisesRodriguezN/ProyectoFinalWeb)
 * [Téllez Santana, María Elena - Gesticole](https://github.com/ElenaTellez/Gesticole.git)
