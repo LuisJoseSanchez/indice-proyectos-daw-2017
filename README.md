@@ -24,4 +24,5 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [Rodríguez Naranjo, Moisés - Hotel Fuente Alegre](https://github.com/MoisesRodriguezN/ProyectoFinalWeb)
 * [Téllez Santana, María Elena - Gesticole](https://github.com/ElenaTellez/Gesticole.git)
 * [Zambrana Naranjo, Alejandro - MilField-Player](https://github.com/alejandrozambrana/MilField-Player)
+* [Ferioli Nuñez, Eliana - GoTeam](https://github.com/ElianaFerioli/GoTeam)
 
