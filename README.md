@@ -15,6 +15,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [Arroyo Escudero, José Antonio - FinanciaUnUniversitario](https://github.com/JoseAntonioArroyo/Financia-Un-Universitario)
 * [Castillo Santana, Junior Miguel - Inmobiliaria](https://github.com/juniorcastillo/inmobiliaria)
 * [Gutierrez Luna, María Belén - TRAVEL-AGENCY-MX](https://github.com/BelenGutierrez/TRAVEL-AGENCY-MX)
+* [Ferioli Nuñez, Eliana - GoTeam](https://github.com/ElianaFerioli/GoTeam)
 * [Jurado Moreno, Carlos - KZM-Travel](https://github.com/CarlosJuradoMoreno/KZM-Travel)
 * [López Mompeán, Rubén - Meet2Play](https://github.com/RubenLopezMompean/Meet2Play)
 * [López Ortiz, Alejandro - MEOW](https://github.com/AlejandroLopez96/Social-Network-PROY-DAW2)
@@ -24,5 +25,5 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [Rodríguez Naranjo, Moisés - Hotel Fuente Alegre](https://github.com/MoisesRodriguezN/ProyectoFinalWeb)
 * [Téllez Santana, María Elena - Gesticole](https://github.com/ElenaTellez/Gesticole.git)
 * [Zambrana Naranjo, Alejandro - MilField-Player](https://github.com/alejandrozambrana/MilField-Player)
-* [Ferioli Nuñez, Eliana - GoTeam](https://github.com/ElianaFerioli/GoTeam)
+
 
