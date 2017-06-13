@@ -28,3 +28,4 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [Zambrana Naranjo, Alejandro - MilField-Player](https://github.com/alejandrozambrana/MilField-Player)
 
 
+[Requisitos que debe cumplir el proyecto](https://github.com/LuisJoseSanchez/indice-proyectos-daw-2017/wiki)
