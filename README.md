@@ -18,6 +18,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [Bernal Guerrero, Javier - OPS](https://github.com/JavierBernalGuerrero/Online-Personal-Site)
 * [Castillo Santana, Junior Miguel - Inmobiliaria](https://github.com/juniorcastillo/inmobiliaria)
 * [Garcia Van der Sander, Alba- Go!Go!Rocket](https://github.com/AlbaGV/Go-Go-Rocket)
+* [Girón Ramírez, Pablo - El Insurrecto](https://github.com/PGRtechDeveloper/proyectofinal)
 * [Gutierrez Luna, María Belén - TRAVEL-AGENCY-MX](https://github.com/BelenGutierrez/TRAVEL-AGENCY-MX)
 * [Ferioli Nuñez, Eliana - GoTeam](https://github.com/ElianaFerioli/GoTeam)
 * [Jurado Moreno, Carlos - KZM-Travel](https://github.com/CarlosJuradoMoreno/KZM-Travel)
